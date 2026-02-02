@@ -15,9 +15,11 @@
 
 - 💬 Ask me about **Java**
 
-- 📄 Know about my experiences [Hackathon 31/01/2026 Grande-Synthe](Hackathon 31/01/2026 Grande-Synthe)
-
 <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Event I do</h3>
+<p align="left"> - Hackathon 2026 (31/01/2026) : Création d'une solution pour que les séniores ne soit plus isolés</p>
+
 <p align="left">
 <a href="https://twitter.com/boumco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boumco" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/boumco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boumco" height="30" width="40" /></a>
@@ -32,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boumco&show_icons=true&locale=en" alt="boumco" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boumco&" alt="boumco" /></p>
-
