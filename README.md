@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Event I do</h3>
-<p align="left"> - Hackathon 2026 (31/01/2026) : Création d'une solution pour que les séniores ne soit plus isolés</p>
+<p align="left"> - Gagnant du Hackathon 2026 (31/01/2026) : Création d'une solution pour que les séniores ne soit plus isolés</p>
 
 <p align="left">
 <a href="https://twitter.com/boumco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boumco" height="30" width="40" /></a>
