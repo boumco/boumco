@@ -1,24 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boumco</h1>
-<h3 align="center">A passionate developer from France (Dunkerque)</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boumco" alt="boumco" /></a> </p>
-
-- 🔭 I’m currently working on [KapitolMC](https://discord.gg/T5s39HU4tS)
-
-- 🌱 I’m currently learning **Nuxt,Java**
-
-- 👯 I study in [IUT de Lille](https://iut.univ-lille.fr/)
-
-- 🤝 I’m looking for help with [KapitolMC (Dev or Builder)](https://discord.gg/T5s39HU4tS)
-
-- 👨‍💻 All of my projects are available at [https://github.com/boumco](https://github.com/boumco)
-
-- 💬 Ask me about **Java**
-
-<h3 align="left">Connect with me:</h3>
-
+<h3 align="center">A passionate developer from France (Lille)</h3>
 <h3 align="left">Event I do</h3>
-<p align="left"> - Gagnant du Hackathon 2026 (31/01/2026) : Création d'une solution pour que les séniores ne soit plus isolés</p>
+<p align="left"> 🔭 - Gagnant du Hackathon 2026 (FAIS TA BA)(31/01/2026) : Création d'une solution pour que les séniores ne soit plus isolés</p>
 
 <p align="left">
 <a href="https://twitter.com/boumco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boumco" height="30" width="40" /></a>
