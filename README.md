@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boumco</h1>
-<h3 align="center">A passionate developer from France (Lille)</h3>
+<h3 align="center">A passionate developer from France (Lille-Dunkerque)</h3>
 <h3 align="left">Event I do</h3>
 <p align="left"> 🔭 - Gagnant du Hackathon 2026 (FAIS TA BA)(31/01/2026) : Création d'une solution pour que les séniores ne soit plus isolés</p>
 
