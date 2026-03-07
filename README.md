@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Boumco;A+passionate+developer+from+France;Lille+%E2%80%A2+Dunkerque" alt="Typing SVG" />
 
 <!-- Stats dynamiques : commits, repos, contributions -->
-<img src="https://github-readme-stats.vercel.app/api?username=Boumco&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Boumco&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boumco&theme=radical&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Streak" width="400" />
 
 <!-- Ligne de stats compacte -->
@@ -54,9 +54,14 @@
 
 ---
 
-### 📊 Top languages (usage public)
+### 📊 Langages les plus utilisés
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boumco&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C63FF" alt="Top Langs" width="350" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+<p align="center"><sub>Java · Vue.js · Node.js</sub></p>
 
 ---
 
